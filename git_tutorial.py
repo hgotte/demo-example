@@ -9,5 +9,7 @@ def add_number(a, b, c):
     
     Returns:
     int or float: The sum of a, b, and c.
+
+    replace addition with sum
     """
     return sum([a, b, c])
