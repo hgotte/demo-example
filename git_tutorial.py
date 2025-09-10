@@ -1,8 +1,8 @@
-"""Module docstring"""
+"""Module docstring."""
 
 
 def add_number(a, b, c):
-    """" adds three numbers together """
+    """Adds three numbers together."""
     #   Adds three numbers together.
     #   Parameters:
     #   a (int or float): The first number.
