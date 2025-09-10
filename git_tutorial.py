@@ -1,10 +1,5 @@
-"""docstring"""
-
-
 def add_number(a, b, c):
-    """
-    Adds three numbers together.
-
+    """  Adds three numbers together.
     Parameters:
     a (int or float): The first number.
     b (int or float): The second number.
