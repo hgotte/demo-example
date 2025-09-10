@@ -1,0 +1,36 @@
+# Byte-Compile-Dateien
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+
+# Temporäre oder automatisch generierte Dateien
+*.tmp
+*.bak
+*.log
+
+# Virtuelle Umgebungen
+venv/
+env/
+.venv/
+*.env
+
+# IDE-spezifische Dateien und Ordner
+.idea/
+.vscode/
+*.iml
+
+# Test- und Cache-Dateien
+.pytest_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+
+# Dist-Dateien
+dist/
+build/
+*.egg-info/
+
+# OS-generierte Dateien
+.DS_Store
+Thumbs.db
