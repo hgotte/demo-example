@@ -2,5 +2,3 @@
 extend-ignore = E203
 exclude = .git,__pycache__,docs/source/conf.py,old,build,dist,venv
 max-complexity = 10
-[radon]
---radon-max-cc 10
