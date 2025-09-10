@@ -1,3 +1,4 @@
+""" docstring """
 def add_number(a, b, c):
     """
     Adds three numbers together.
